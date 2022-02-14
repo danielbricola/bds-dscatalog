@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello DSCaralog</h1>
+    <h1>Hello DSCatalog</h1>
   );
 }
 
